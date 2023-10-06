@@ -172,7 +172,8 @@ select count(*) as rownumber from managers;
 ```
 ### OUTPUT:
 
-![image](https://github.com/Jeevapriya14/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121003043/aa80ba0d-674d-495e-8aa3-23f525ea176d)
+![image](https://github.com/Jeevapriya14/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121003043/16406e6c-01d8-4007-8cb5-6244c125dea0)
+
 
 ### Q14) Find maximum, minimum and average salary in EMP table.
 
